@@ -1,6 +1,11 @@
+*{box-sizing: border-box;}
+
 .img-circle{
   border-radius: 40% !important;
   width: 10%;
+}
+#mapid{
+  height: 250px;
 }
 header{
   position: relative;
